@@ -1,0 +1,35 @@
+{
+  "coord": { "lon": -34.9176, "lat": -8.0642 },
+  "weather": [
+    {
+      "id": 802,
+      "main": "Clouds",
+      "description": "scattered clouds",
+      "icon": "03n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 300.17,
+    "feels_like": 301.96,
+    "temp_min": 300.17,
+    "temp_max": 300.17,
+    "pressure": 1013,
+    "humidity": 69
+  },
+  "visibility": 10000,
+  "wind": { "speed": 3.09, "deg": 90 },
+  "clouds": { "all": 40 },
+  "dt": 1699831589,
+  "sys": {
+    "type": 1,
+    "id": 8426,
+    "country": "BR",
+    "sunrise": 1699775400,
+    "sunset": 1699820262
+  },
+  "timezone": -10800,
+  "id": 6955599,
+  "name": "Graças",
+  "cod": 200
+}
